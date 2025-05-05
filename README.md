@@ -14,9 +14,9 @@
 ---
 
 ### 🔧 Skills & Technologies:
-- **Languages:** JavaScript, Kotlin, Java, HTML, CSS,PHP,
-- **Frameworks & Libraries:** React.js, Next.js, Node.js, Express.js, MongoDB, Tailwind CSS
-- **Tools:** Git, GitHub, VS Code, Android Studio, Postman,cVisual studio
+- **Languages:** JavaScript, Kotlin, Java, HTML, CSS, PHP, MySQL, Mongo DB.
+- **Frameworks & Libraries:** React.js, Next.js, Node.js, Express.js, Tailwind CSS.
+- **Tools:** Git, GitHub, VS Code, Android Studio, Postman, Visual studio.
 
 ---
 
