@@ -8,13 +8,13 @@
 
 ### 🧠 About Me:
 - 💻 Tech enthusiast with a strong interest in full-stack webdevelopment.
-- 🌱 Currently learning: MERN stack, Next.js, Tailwind CSS.
+- 🌱 Currently learning: MERN stack, Next.js, Tailwind CSS, C#, ASP.Net.
 - 🛠️ Building hands-on projects to deepen my skills and understanding of real-world applications.
 
 ---
 
 ### 🔧 Skills & Technologies:
-- **Languages:** JavaScript, Kotlin, Java, HTML, CSS, PHP, MySQL, Mongo DB.
+- **Languages:** JavaScript, Kotlin, Java, HTML, CSS, PHP, MySQL, Mongo DB, C#. ASP.Net.
 - **Frameworks & Libraries:** React.js, Next.js, Node.js, Express.js, Tailwind CSS.
 - **Tools:** Git, GitHub, VS Code, Android Studio, Postman, Visual studio.
 
